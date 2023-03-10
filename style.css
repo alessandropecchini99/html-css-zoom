@@ -53,7 +53,6 @@ main .user {
 
 main .singolo {
     position: relative;
-    aspect-ratio: 1.6 / 1;
     width: calc((100% - 3px * 6) / 7);
     flex: 0 0 200px;
     margin-bottom: 0.5em;
@@ -62,7 +61,7 @@ main .singolo {
 
 main .singolo .nome {
     position: absolute;
-    bottom: 3px;
+    bottom: 0px;
     left: 0;
         padding: 3px;
          background-color: rgb(49, 49, 49);
