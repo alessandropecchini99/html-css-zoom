@@ -53,7 +53,7 @@ main .user {
 
 main .singolo {
     position: relative;
-    flex: 0 0 ((100% / 10) - 0.3em);
+    flex: 0 0 (100% / 7);
     margin-bottom: 0.5em;
 }
 
